@@ -4,7 +4,7 @@
 
 I developed a passion for web development in early 2016. I wanted to start my own company and attempted to create a website from scratch. I followed various Wordpress tutorials online and since that moment I caught the 'bug'. Fast forward to the present, I am now an energetic and ambitious Junior Developer, looking for a role where I can consolidate and extend my programming knowledge. 
 
-After completing my first year of engineering at Nottingham Univeristy I was offered work experience at Kittitian Hill in St.Kitts & Nevis which turned into a job and I decided to take a year out of education to work. I enjoyed the fast-paced environment and learning new skills on the job quickly. I was then offered an apprenticeship back in London where I would be able to study and work at the same time and I wouldn't have to worry too much about student loans holding me back in the future. 
+After completing my first year of engineering at Nottingham University I was offered work experience at Kittitian Hill in St.Kitts & Nevis which turned into a job and I decided to take a year out of education to work. I enjoyed the fast-paced environment and learning new skills on the job quickly. I was then offered an apprenticeship back in London where I would be able to study and work at the same time and I wouldn't have to worry too much about student loans holding me back in the future. 
 
 In the last 5 months I learnt to code at Makers Academy, a 16 week software development bootcamp. Started working on an amazing side project, Recurrio with some fellow Makers graduates and hoping to bring it to the market soon! 
 
@@ -58,7 +58,7 @@ A selective 12 week intensive coding bootcamp.
 
 - BSc Business with Finance (2.1)
 
-#### Univeristy of Nottingham (2012-2013)
+#### University of Nottingham (2012-2013)
 
 - HND Environmental Engineering
 
