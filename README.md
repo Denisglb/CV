@@ -14,7 +14,7 @@ Tech Skills : Ruby, Rails, Sinatra, Node.js, Express, HTML, CSS, JavaScript, Swi
 
 Project | Description | Technologies | 
 ------- | ----------- | ------------ | 
-[Recurrio](https://github.com/elizabethcsw/Makersbnb2) | An app for an IoT device using FSR + Arduino + Bluetooth Low Energy Module | Swift4, C, XCode 9, XCTest|
+[Recurrio](https://github.com/alessiobortone2/Recurrio3) | An app for an IoT device using FSR + Arduino + Bluetooth Low Energy Module | Swift4, C, XCode 9, XCTest|
 [PokeBall Run!](https://github.com/rolandosorbelli/pokeball) | A gyroscope movement iPhone game with Pokemon. Made in 5 days learning Swift from scratch | XCode 9, Swift 4, and XCTest |
 [MakersBnB](https://github.com/elizabethcsw/Makersbnb2) | Group Project to rebuild AirBnB in second week of learning JavaScript | JavaScript, Node JS, HTML, CSS, Express, Sequelize, PostgreSQL, Zombie, Mocha, Chai |
 
