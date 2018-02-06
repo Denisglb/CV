@@ -57,7 +57,7 @@ A selective 12 week intensive coding bootcamp.
 
 #### BPP (2014-2016)
 
-- BSc Business with Finance (2.1)
+- BSc Business with Finance
 
 #### University of Nottingham (2012-2013)
 
