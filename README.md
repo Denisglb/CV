@@ -17,7 +17,7 @@ Project | Description | Technologies |
 [Recurrio](https://github.com/alessiobortone2/Recurrio3) | An app for an IoT device using FSR + Arduino + Bluetooth Low Energy Module | Swift4, C, XCode 9, XCTest|
 [PokeBall Run!](https://github.com/rolandosorbelli/pokeball) | A gyroscope movement iPhone game with Pokemon. Made in 5 days learning Swift from scratch | XCode 9, Swift 4, and XCTest |
 [Bank](https://github.com/Denisglb/bank_test) | Bank tech test | Ruby, Rspec |
-[Cryptocurrency Comparison](https://github.com/Denisglb/Cryptocurrencies_Comparison) | Project to compare Bitcoin, Ethereum and Nasdaq prices | Postgress, Ruby, Ruby on Rails, Rspec |
+[Cryptocurrency Comparison](https://github.com/Denisglb/Witch_Hunt) | Previous Tech Test to catch a Witch stealing kittens! | Ruby, Rspec |
 
 ## Skills
 
@@ -61,7 +61,7 @@ A selective 12 week intensive coding bootcamp.
 
 #### University of Nottingham (2012-2013)
 
-- HND Environmental Engineering
+- Environmental Engineering
 
 #### Dartford Grammar(2010-2012)
 
