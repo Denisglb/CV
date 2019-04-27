@@ -55,7 +55,7 @@ A selective 12 week intensive coding bootcamp.
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### BPP (2014-2016)
+#### LSE  (2014-2016)
 
 - BSc Business with Finance
 
@@ -70,7 +70,7 @@ A selective 12 week intensive coding bootcamp.
 
 ## Experience
 
-**Angloslav International** (2014-2017)    
+**Arton Capital** (2014-2017)    
 *Education and Citizenship Consultant* 
 
 **Kittitian Hill** (2013-2014)   
