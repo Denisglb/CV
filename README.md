@@ -2,13 +2,15 @@
 [Projects](https://github.com/denisglb/CV#projects) | [Skills](https://github.com/denisglb/CV#skills) | [Education](https://github.com/denisglb/CV#education) | [Work Experience](https://github.com/denisglb/CV#experience)
 
 
-I developed a passion for web development in early 2016. I wanted to start my own company and attempted to create a website from scratch. I followed various Wordpress tutorials online and since that moment I caught the 'bug'. Fast forward to the present, I am now an energetic and ambitious Junior Developer, looking for a role where I can consolidate and extend my programming knowledge. 
+I developed a passion for web development in early 2016. I wanted to start my own company and attempted to create a website from scratch. I followed various Wordpress tutorials online and since that moment I caught the 'bug'. Fast forward to the present, I am now an energetic and ambitious Mid-Level Developer, looking for a role where I can consolidate and extend my programming knowledge. 
 
 After completing my first year of engineering at Nottingham University I was offered work experience at Kittitian Hill in St.Kitts & Nevis which turned into a job and I decided to take a year out of education to work. I enjoyed the fast-paced environment and learning new skills on the job quickly. I was then offered an apprenticeship back in London where I would be able to study and work at the same time and I wouldn't have to worry too much about student loans holding me back in the future. 
 
-In the last 5 months I learnt to code at Makers Academy, a 16 week software development bootcamp. Started working on an amazing side project, Recurrio with some fellow Makers graduates and hoping to bring it to the market soon! 
+I decided to learn how to code at Makers Academy, a 16 week software development bootcamp. This lead to working on some amazing side projects, such as Recurrio with some fellow Makers graduates and gave me the skills to pursue my own projects such as creating an influncer reltionship manager tool (IRM), various basic websites.
 
-Tech Skills : Ruby, Rails, Sinatra, Node.js, Express, HTML, CSS, JavaScript, Swift, Bootstrap, PostgreSQL
+I have been working for Santander for the last 2 years, working within PaymentsHub, a payment processing system which has received plenty of praise from the bank and are currently expanding to Spain, Mexico, Brazil and America in the future. PaymentsHub are able to process most types of payments (BACS, CHAPS, SWIFT, Faster Payments, Open Banking) from one end-point furthermore, we process payments all payments using only cloud servers instead of mainframe servers.
+
+Tech Skills : Java, NuoDB, Kafka, Thymeleaf, , RabbitMQ, terrform, SpringBoot, Ruby, Rails, Sinatra, Node.js, Express, HTML, CSS, Swift, Bootstrap, PostgreSQL
 
 ## Projects
 
@@ -17,13 +19,13 @@ Project | Description | Technologies |
 [Recurrio](https://github.com/alessiobortone2/Recurrio3) | An app for an IoT device using FSR + Arduino + Bluetooth Low Energy Module | Swift4, C, XCode 9, XCTest|
 [PokeBall Run!](https://github.com/rolandosorbelli/pokeball) | A gyroscope movement iPhone game with Pokemon. Made in 5 days learning Swift from scratch | XCode 9, Swift 4, and XCTest |
 [Bank](https://github.com/Denisglb/bank_test) | Bank tech test | Ruby, Rspec |
-[Cryptocurrency Comparison](https://github.com/Denisglb/Witch_Hunt) | Previous Tech Test to catch a Witch stealing kittens! | Ruby, Rspec |
+[Witch Hunt](https://github.com/Denisglb/Witch_Hunt) | Previous Tech Test to catch a Witch stealing kittens! | Ruby, Rspec |
 
 ## Skills
 
 #### Fast Learner
 
-I think this goes for all Makers Graduates but my final project proved to be extremely difficult. We worked with hardware and completely new software languages (Swift, C) and frameworks (Xcode) to create an exciting product all in the space of 2 weeks! All this without any guidance. 
+I think this goes for all Makers Graduates but my final project proved to be extremely difficult. We worked with hardware and completely new software languages (Swift, C) and frameworks (Xcode) to create an exciting product all in the space of 2 weeks!
 
 
 #### Entreprenurial
@@ -55,13 +57,9 @@ A selective 12 week intensive coding bootcamp.
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### LSE  (2014-2016)
+#### University of Nottingham (2012-2016)
 
-- BSc Business with Finance
-
-#### University of Nottingham (2012-2013)
-
-- Environmental Engineering
+- BEng Environmental Engineering
 
 #### Dartford Grammar(2010-2012)
 
@@ -75,3 +73,6 @@ A selective 12 week intensive coding bootcamp.
 
 **Kittitian Hill** (2013-2014)   
 *Sustainability Researcher*  
+
+**Santander** (2017-Present)   
+*Software Engineer*  
